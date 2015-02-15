@@ -1,0 +1,187 @@
+worth:
+  stonebutton: 2.0
+  wood: 0.5
+  arrow: 3.5
+  diamondpickaxe: 650.0
+  rawfish: 5.0
+  minecart: 15.0
+  leatherchestplate:
+    '0': 70.0
+  storageminecart: 30.0
+  leaves: 0.5
+  feather: 3.0
+  goldchestplate:
+    '0': 300.0
+  mushroomsoup: 15.5
+  bread: 15.0
+  stationarywater: 1.0
+  workbench: 2.5
+  stonehoe: 2.5
+  brownmushroom: 2.0
+  wool: 7.0
+  mossycobblestone: 90.0
+  diamondhoe: 400.0
+  woodsword: 1.0
+  torch: 4.0
+  grass: 1.0
+  poweredminecart: 32.0
+  snowball: 0.2
+  goldenapple: 100.0
+  leatherleggings:
+    '0': 50.0
+  log: 2.0
+  diamondaxe: 650.0
+  slimeball: 40.0
+  fence: 1.0
+  stonespade: 1.5
+  claybrick: 5.0
+  noteblock: 40.0
+  ironaxe: 22.0
+  coalore: 8.0
+  clayball: 3.0
+  fishingrod: 10.0
+  ironhoe: 20.0
+  goldrecord: 100.0
+  ironpickaxe: 22.0
+  irondoor: 25.0
+  bucket: 22.0
+  redrose: 2.0
+  grilledpork: 7.0
+  gravel: 1.0
+  wooddoor: 3.0
+  chainmailhelmet:
+    '0': 400.0
+  ironchestplate:
+    '0': 290.0
+  diamondblock:
+    '0': 1800.0
+  diamondhelmet:
+    '0': 500.0
+  goldhelmet:
+    '0': 250.0
+  redstonetorchon: 32.0
+  ironspade: 17.0
+  furnace: 8.5
+  ironsword: 15.0
+  dispenser: 58.0
+  woodaxe: 2.0
+  seeds: 2.0
+  painting: 15.0
+  woodplate: 1.0
+  redstoneore: 30.0
+  diamondspade: 210.0
+  waterbucket: 35.0
+  water: 1.0
+  bedrock: 0.1
+  irondoorblock: 15.0
+  goldhoe: 6.0
+  sand: 1.0
+  goldsword: 6.0
+  stoneaxe: 3.0
+  bookshelf: 120.0
+  ironblock: 200.0
+  jackolantern: 56.0
+  boat: 3.0
+  diamondchestplate:
+    '0': 800.0
+  redstonewire: 30.0
+  redmushroom: 2.0
+  string: 5.0
+  stoneplate: 6.0
+  wallsign: 1.0
+  cactus: 10.0
+  sulphur: 20.0
+  rails: 22.0
+  ironore: 18.0
+  leatherhelmet: 52.0
+  stone: 3.0
+  egg: 1.0
+  diamondore: 230.0
+  woodhoe: 2.0
+  goldleggings:
+    '0': 280.0
+  chainmailleggings:
+    '0': 500.0
+  yellowflower: 2.0
+  ironhelmet:
+    '0': 220.0
+  obsidian: 130.0
+  dirt: 0.5
+  leather: 10.0
+  leatherboots: 42.0
+  lever: 1.0
+  cobblestone: 3.0
+  cake: 60.75
+  woodstairs: 1.0
+  ironingot: 35.0
+  goldore: 22.0
+  pumpkin: 50.0
+  bed: 15.0
+  watch: 20.0
+  ironleggings:
+    '0': 250.0
+  sign:
+    '0': 300.0
+  doublestep: 1.0
+  woodpickaxe: 2.0
+  stonepickaxe: 4.0
+  chainmailboots: 30.0
+  diamondleggings:
+    '0': 700.0
+  cookedfish: 7.0
+  saddle: 200.0
+  cobblestonestairs: 1.5
+  tnt: 75.0
+  glowingredstoneore: 30.0
+  apple:
+    '0': 2.0
+  woodspade: 1.0
+  goldingot:
+    '0': 60.0
+  diode: 110.0
+  soil: 1.0
+  clay: 12.0
+  goldblock: 450.0
+  stick: 0.25
+  paper: 10.0
+  brick: 21.0
+  stationarylava: 1.0
+  chest: 4.0
+  sandstone: 3.0
+  goldpickaxe: 6.0
+  compass: 22.0
+  sugarcane: 10.0
+  diamondsword: 420.0
+  goldboots:
+    '0': 240.0
+  sponge: 80.0
+  stonesword: 10.1
+  coal: 15.0
+  goldaxe: 6.0
+  bone: 2.0
+  diamond:
+    '0': 100.0
+  glass: 3.0
+  goldspade: 6.0
+  lapisblock: 650.0
+  lavabucket: 40.0
+  wheat: 9.0
+  ladder: 0.5
+  sugarcaneblock: 15.0
+  bowl: 0.5
+  chainmailchestplate:
+    '0': 800.0
+  sapling: 2.0
+  diamondboots: 850.0
+  lapisore: 75.0
+  lava: 25.0
+  milkbucket: 40.0
+  redstone: 15.0
+  greenrecord: 100.0
+  inksack: 10.0
+  glowstonedust: 10.0
+  book: 20.0
+  bow: 15.0
+  ironboots: 22.0
+  step: 1.5
+  sugar: 10.0
